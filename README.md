@@ -4,7 +4,7 @@ Simple skeleton for Ruby programs.
 
 ## Status
 
-[![Tests](https://github.com/tobidelius/ruby-skeleton/actions/workflows/test.yml/badge.svg)](https://github.com/tobidelius/ruby-skeleton/actions/workflows/spec.yml)
+[![Ruby](https://github.com/tobidelius/ruby-skeletor/actions/workflows/spec.yml/badge.svg)](https://github.com/tobidelius/ruby-skeletor/actions/workflows/spec.yml)
 
 ## Usage
 
