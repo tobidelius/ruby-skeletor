@@ -16,7 +16,7 @@ bundle install
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/ruby-skeletor.
+Bug reports and pull requests are welcome on GitHub at https://github.com/tobidelius/ruby-skeletor.
 
 ## License
 
